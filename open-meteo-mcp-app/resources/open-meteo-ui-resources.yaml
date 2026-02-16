@@ -8,7 +8,7 @@ resources:
     name: Basic info page
     description: Display basic info about Open-Meteo get_v1_forecast tool
     mimeType: text/html;profile=mcp-app
-    remoteContent: <YOUR-APP-URL-HERE-EX-NGROK>/mcp-app.html
+    remoteContent: https://e1ac-81-65-166-208.ngrok-free.app/mcp-app.html
     _meta:
       domain: open-meteo.com
       prefersBoarder: true
